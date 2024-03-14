@@ -13,5 +13,5 @@ The server will start running on http://localhost:3001
 
 ## Here is a video walkthrough of this ORM application
 
-[![A video thumbnail shows the ORM E-commerce application.](/Users/blade/ORM-/Assets/Screenshot 2024-03-14 at 1.25.29 AM.png.)](https://katelomidze2003.wistia.com/medias/aeio158arh)
+[![A video thumbnail shows the ORM E-commerce application.](./Assets/Screenshot%202024-03-14%20at%201.25.29 AM.png)](https://katelomidze2003.wistia.com/medias/aeio158arh)
 
